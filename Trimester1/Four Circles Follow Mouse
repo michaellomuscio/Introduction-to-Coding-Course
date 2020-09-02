@@ -1,3 +1,10 @@
+//Processing Code
+//Created by Dr. Michael Lomuscio
+//lomuscio.michael@gmail.com
+//For use at Rabun Gap-Nacoochee School
+//https://www.rabungap.org/
+//Introduction to Coding Course
+
 void setup() {
 	size(500,500);
 	background(255);
