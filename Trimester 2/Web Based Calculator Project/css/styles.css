@@ -1,0 +1,22 @@
+table.calcButtons {
+  margin: auto auto auto auto;
+  border-style: solid;
+  border-width: thick;
+}
+
+#runningTotal, #display {
+  text-align: right;
+  font-family: fantasy;
+}
+
+#totalHeader {
+  text-align: left;
+  font-family: fantasy;
+  text-transform: uppercase;
+}
+
+#calcHeader {
+  text-align: center;
+  font-family: cursive;
+  text-transform: uppercase;
+}
